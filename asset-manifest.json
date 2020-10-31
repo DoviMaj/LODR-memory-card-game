@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/LORD-memory-card-game/static/css/main.c33ff685.chunk.css",
-    "main.js": "/LORD-memory-card-game/static/js/main.4d0a2309.chunk.js",
-    "main.js.map": "/LORD-memory-card-game/static/js/main.4d0a2309.chunk.js.map",
-    "runtime-main.js": "/LORD-memory-card-game/static/js/runtime-main.330518a5.js",
-    "runtime-main.js.map": "/LORD-memory-card-game/static/js/runtime-main.330518a5.js.map",
-    "static/js/2.bae20915.chunk.js": "/LORD-memory-card-game/static/js/2.bae20915.chunk.js",
-    "static/js/2.bae20915.chunk.js.map": "/LORD-memory-card-game/static/js/2.bae20915.chunk.js.map",
-    "static/js/3.217f79ca.chunk.js": "/LORD-memory-card-game/static/js/3.217f79ca.chunk.js",
-    "static/js/3.217f79ca.chunk.js.map": "/LORD-memory-card-game/static/js/3.217f79ca.chunk.js.map",
-    "index.html": "/LORD-memory-card-game/index.html",
-    "static/css/main.c33ff685.chunk.css.map": "/LORD-memory-card-game/static/css/main.c33ff685.chunk.css.map",
-    "static/js/2.bae20915.chunk.js.LICENSE.txt": "/LORD-memory-card-game/static/js/2.bae20915.chunk.js.LICENSE.txt"
+    "main.css": "/LOTR-memory-card-game/static/css/main.c33ff685.chunk.css",
+    "main.js": "/LOTR-memory-card-game/static/js/main.4d0a2309.chunk.js",
+    "main.js.map": "/LOTR-memory-card-game/static/js/main.4d0a2309.chunk.js.map",
+    "runtime-main.js": "/LOTR-memory-card-game/static/js/runtime-main.66303285.js",
+    "runtime-main.js.map": "/LOTR-memory-card-game/static/js/runtime-main.66303285.js.map",
+    "static/js/2.bae20915.chunk.js": "/LOTR-memory-card-game/static/js/2.bae20915.chunk.js",
+    "static/js/2.bae20915.chunk.js.map": "/LOTR-memory-card-game/static/js/2.bae20915.chunk.js.map",
+    "static/js/3.217f79ca.chunk.js": "/LOTR-memory-card-game/static/js/3.217f79ca.chunk.js",
+    "static/js/3.217f79ca.chunk.js.map": "/LOTR-memory-card-game/static/js/3.217f79ca.chunk.js.map",
+    "index.html": "/LOTR-memory-card-game/index.html",
+    "static/css/main.c33ff685.chunk.css.map": "/LOTR-memory-card-game/static/css/main.c33ff685.chunk.css.map",
+    "static/js/2.bae20915.chunk.js.LICENSE.txt": "/LOTR-memory-card-game/static/js/2.bae20915.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.330518a5.js",
+    "static/js/runtime-main.66303285.js",
     "static/js/2.bae20915.chunk.js",
     "static/css/main.c33ff685.chunk.css",
     "static/js/main.4d0a2309.chunk.js"
