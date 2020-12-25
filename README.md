@@ -1,6 +1,12 @@
 # Memory Card Game
 
+Made for The Odin Project.
+
+# Practiced 
+
 React functional components with hooks.
+
+# Demo
 
 [live here](http://dovimaj.github.io/LOTR-memory-card-game)
 
